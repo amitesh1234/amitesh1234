@@ -28,7 +28,7 @@ I am a Blockchain and Full Stack Developer <img src="https://media.giphy.com/med
 
 - :zap: In my free time, I read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amitesh-garg-b6934a166/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Amitesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amitesh-garg-b6934a166/)
 
 ---
 
@@ -48,6 +48,19 @@ I am a Blockchain and Full Stack Developer <img src="https://media.giphy.com/med
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amitesh1234&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitesh1234&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+Coming Soon!
+
+
 
 <!--
 **amitesh1234/amitesh1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
