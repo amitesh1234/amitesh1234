@@ -21,7 +21,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Blockchain and Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Blockchain and Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> located in Dubai.
 - :telescope: I’m working as a Blockchain Developer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring various blockchains and their integration in a single platform.
