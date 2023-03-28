@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/amitesh-garg-b6934a166/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCmk_JPo0r6lLVJ3Ic6BQmoAL">
+    <a href="https://www.youtube.com/@amiteshgarg7840/featured">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://twitter.com/nftismetaverse">
